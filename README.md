@@ -1,19 +1,6 @@
 # Medicine Recommender System
 A web-based application that recommends alternative medicines based on user input. This project uses machine learning models to suggest similar medicines, helping users find alternatives easily.
 
-
-## Table of Contents
-Medicine Recommender System
-### Table of Contents
-- Features
-- Tech Stack
-- Project Structure
-- Installation
-- Usage
-- Screenshots
-- Contributing
-- License
-- Contact
 ### Features
 - Medicine Search: Type the name of a medicine, and the app will suggest alternatives.
 - Recommendation System: Uses a pre-trained model to recommend similar medicines.
@@ -25,7 +12,7 @@ Medicine Recommender System
 - Machine Learning: Python, Pandas
 - Data: Pre-processed medicine data stored in a pickle file
 ### Project Structure
-
+```
 medicine_recommender/
 │
 ├── static/
@@ -38,7 +25,7 @@ medicine_recommender/
 ├── app.py                            # Flask application
 ├── medicine_dict.pkl                 # Pickle file containing medicine data
 └── similarity.pkl                    # Pickle file containing similarity data
-
+```
 ### Installation
 To run this project locally, follow these steps:
 Clone the repository:
