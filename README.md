@@ -43,7 +43,7 @@ medicine_recommender/
 To run this project locally, follow these steps:
 Clone the repository:
 ```
-git clone https://github.com/yourusername/medicine-recommender-system.git
+git clone https://github.com/Swamibhuvanesan/Alternative-Medicine-Recommendation-System-.git
 ```
 cd medicine-recommender-system
 #### Set up a virtual environment (optional but recommended):
@@ -69,11 +69,8 @@ Select a Medicine: Use the dropdown to select the medicine you want to find alte
 Get Recommendations: Click the "Recommend" button to view similar medicines.
 Purchase: Click on the "Buy Now" button to purchase the recommended medicine from an online pharmacy.
 ### Screenshots
-Here are some screenshots of the application:
 
-#### Homepage
-
-#### Recommendations
+![Screenshot 2024-09-02 203639](https://github.com/user-attachments/assets/8a6f52b5-1bd6-4248-a34b-c19ed4517350)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -89,7 +86,4 @@ Please make sure to update tests as appropriate.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Contact
-Feel free to reach out:
-
-GitHub: yourusername
-Email: yourname@example.com
+Feel free to reach out!
