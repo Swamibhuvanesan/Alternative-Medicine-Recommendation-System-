@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.form-select {
+    width: 100%;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+footer {
+    background-color: #f1f1f1;
+}
