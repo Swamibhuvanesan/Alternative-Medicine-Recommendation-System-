@@ -59,6 +59,8 @@ Purchase: Click on the "Buy Now" button to purchase the recommended medicine fro
 
 ![Screenshot 2024-09-02 203639](https://github.com/user-attachments/assets/8a6f52b5-1bd6-4248-a34b-c19ed4517350)
 
+![Screenshot 2024-11-27 122510](https://github.com/user-attachments/assets/bfdc8dca-5dae-4cdd-8330-28b4e7cf90f6)
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
